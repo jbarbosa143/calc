@@ -136,7 +136,15 @@
 #nightMode {
     width: 150px;
     height:60px;
-    background-color: chartreuse;
+    background-color: black;
+    color:white;
+}
+
+#daymode{
+    width: 150px;
+    height:60px;
+    background-color: blue;
+    color:red;
 }
 
 
