@@ -21,6 +21,7 @@
     background-color: #e0fbfc;
     border-radius: 20px;
     margin: 0 ,auto;
+    margin-top: 50px;
     
 }
 /*======================================= */
@@ -40,6 +41,8 @@
 #total{
     width:425px;
     height: 75px;
+    font-size: 70px;
+    color:limegreen;
 }
 /* ================================== */
 #keyboard{
@@ -64,6 +67,18 @@
 }
 
 .operator{
+    height:75px;
+    width:75px;
+    font-size: 32px;
+}
+
+.decimal{
+    height:75px;
+    width:75px;
+    font-size: 32px;
+}
+
+.clear{
     height:75px;
     width:75px;
     font-size: 32px;
